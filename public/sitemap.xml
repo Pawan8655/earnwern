@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Core Pages -->
+  <url><loc>https://earnwern.in/</loc><priority>1.0</priority></url>
+  <url><loc>https://earnwern.in/tools</loc><priority>0.9</priority></url>
+  <url><loc>https://earnwern.in/products</loc><priority>0.9</priority></url>
+  <url><loc>https://earnwern.in/blog</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/search</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/about</loc><priority>0.6</priority></url>
+  <url><loc>https://earnwern.in/contact</loc><priority>0.6</priority></url>
+  <url><loc>https://earnwern.in/privacy</loc><priority>0.5</priority></url>
+  <url><loc>https://earnwern.in/disclaimer</loc><priority>0.5</priority></url>
+  <url><loc>https://earnwern.in/terms</loc><priority>0.5</priority></url>
+
+  <!-- Calculators -->
+  <url><loc>https://earnwern.in/calculator/emi-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/home-loan-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/car-loan-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/personal-loan-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/education-loan-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/sip-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/step-up-sip-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/gst-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/fd-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/rd-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/lumpsum-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/inflation-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/income-tax-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/retirement-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/roi-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/ppf-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/ssy-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/margin-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/break-even-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/net-worth-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/emergency-fund-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/simple-interest-calculator</loc><priority>0.8</priority></url>
+  <url><loc>https://earnwern.in/calculator/math-calculator</loc><priority>0.8</priority></url>
+
+  <!-- Product Categories -->
+  <url><loc>https://earnwern.in/products/credit-cards</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/products/banking</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/products/loans</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/products/insurance</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/products/investments</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/products/demat-accounts</loc><priority>0.7</priority></url>
+
+  <!-- Individual Products -->
+  <url><loc>https://earnwern.in/product/hdfc-regalia-gold-credit-card</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/product/kotak-811-zero-balance-savings-account</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/product/navi-instant-personal-loan-online</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/product/icici-pru-iprotect-smart-term-insurance</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/product/axis-active-bluechip-mutual-fund</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/product/hdfc-millennia-cashback-credit-card</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/product/zerodha-equity-demat-trading-account</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/product/bajaj-finserv-unsecured-business-loan</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/product/sbi-elite-luxury-credit-card</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/product/acko-comprehensive-car-insurance-policy</loc><priority>0.7</priority></url>
+
+  <!-- Blog Posts -->
+  <url><loc>https://earnwern.in/blog/home-loan-prepayment-guide</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/blog/sip-vs-lumpsum</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/blog/old-vs-new-tax-regime-2024</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/blog/best-credit-cards-travel</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/blog/emergency-fund-guide</loc><priority>0.7</priority></url>
+  <url><loc>https://earnwern.in/blog/power-of-compounding</loc><priority>0.7</priority></url>
+</urlset>
