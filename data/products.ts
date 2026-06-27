@@ -1,3 +1,6 @@
+Here is your updated TypeScript array with the new financial products added and all values formatted cleanly to match your existing array structure (`Product[]`).
+
+```typescript
 import { Product } from '../types';
 
 export const products: Product[] = [
@@ -142,5 +145,100 @@ export const products: Product[] = [
     fees: "₹1,999/yr",
     applyLink: "#",
     tag: "New"
+  },
+  {
+    id: 'p11',
+    slug: 'airtel-payments-bank-digital-savings-account',
+    name: "Airtel Payments Bank Digital Savings Account",
+    provider: "Airtel",
+    type: "banking",
+    image: "https://images.unsplash.com/photo-1563013544-824ae1d704d3?q=80&w=2070&auto=format&fit=crop",
+    features: ["100% Digital Opening", "Zero Balance Required", "Airtel Thanks App"],
+    rating: 4.6,
+    interest: "Up to 7% p.a.",
+    fees: "₹0",
+    applyLink: "https://bitli.in/R694Pbr"
+  },
+  {
+    id: 'p12',
+    slug: 'angel-one-demat-trading-account',
+    name: "Angel One Demat & Trading Account",
+    provider: "Angel One",
+    type: "demat",
+    image: "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=2070&auto=format&fit=crop",
+    features: ["Lifetime Zero Brokerage", "Quick Account Setup", "Great for Beginners"],
+    rating: 4.7,
+    interest: "0 Broker",
+    fees: "Free Setup",
+    applyLink: "https://bitli.in/3AHDT7V",
+    tag: "Popular"
+  },
+  {
+    id: 'p13',
+    slug: 'upstox-demat-trading-account',
+    name: "Upstox Demat & Trading Account",
+    provider: "Upstox",
+    type: "demat",
+    image: "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=2070&auto=format&fit=crop",
+    features: ["Low Brokerage Fees", "Advanced Charts & Tools", "Diverse Investments"],
+    rating: 4.6,
+    interest: "0 Delivery",
+    fees: "₹0 Setup",
+    applyLink: "https://extp.in/1M1ftH"
+  },
+  {
+    id: 'p14',
+    slug: 'hostinger-domain-and-web-hosting',
+    name: "Hostinger Domain & Web Hosting",
+    provider: "Hostinger",
+    type: "hosting",
+    image: "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?q=80&w=2070&auto=format&fit=crop",
+    features: ["Free Domain Included", "99.9% Uptime Guarantee", "24/7 Premium Support"],
+    rating: 4.8,
+    interest: "99.9% Uptime",
+    fees: "Premium Plans",
+    applyLink: "https://extp.in/JGMxrZ"
+  },
+  {
+    id: 'p15',
+    slug: 'drinkprime-smart-water-purifier-on-rent',
+    name: "DrinkPrime Smart Water Purifier",
+    provider: "DrinkPrime",
+    type: "subscription",
+    image: "https://images.unsplash.com/photo-1609842947419-ba4f7396000d?q=80&w=2070&auto=format&fit=crop",
+    features: ["IoT Enabled Monitoring", "Zero Maintenance Cost", "Customized Filters"],
+    rating: 4.5,
+    interest: "Smart Purifier",
+    fees: "Monthly Rent",
+    applyLink: "https://extp.in/2trqEd"
+  },
+  {
+    id: 'p16',
+    slug: 'indiabulls-securities-trading-account',
+    name: "Indiabulls Securities Trading Account",
+    provider: "Indiabulls",
+    type: "demat",
+    image: "https://images.unsplash.com/photo-1611974714013-3c8c1d5b017a?q=80&w=2070&auto=format&fit=crop",
+    features: ["Expert Research Reports", "Seamless Trading App", "Margin Funding Facility"],
+    rating: 4.3,
+    interest: "Flexible Margin",
+    fees: "Standard AMC",
+    applyLink: "https://extp.in/trZvZQ"
+  },
+  {
+    id: 'p17',
+    slug: 'hdfc-sky-discount-broking-account',
+    name: "HDFC Sky Discount Broking Account",
+    provider: "HDFC Securities",
+    type: "demat",
+    image: "https://images.unsplash.com/photo-1535320903710-d993d3d77d29?q=80&w=2070&auto=format&fit=crop",
+    features: ["Flat ₹20 per Trade", "All-in-One Investment App", "Global Stock Investing"],
+    rating: 4.7,
+    interest: "Flat ₹20/order",
+    fees: "Zero Account Opening",
+    applyLink: "https://extp.in/48SpcO",
+    tag: "Highly Rated"
   }
 ];
+
+```
