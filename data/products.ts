@@ -22,16 +22,13 @@ export const products: Product[] = [
     provider: "Kotak Bank",
     type: "banking",
     image: "https://images.unsplash.com/photo-1621415263409-0997bd5a2971?q=80&w=1974&auto=format&fit=crop",
-    features: ["Digital Onboarding", "Virtual Debit Card", "Scan & Pay Rewards"
-Eligibility Criteria -
-
-    Age: 18 to 60 years
-
-
-Documents required for the Application -
-
-    PAN Card
-    Aadhar Card],
+    features: [
+      "Digital Onboarding", 
+      "Virtual Debit Card", 
+      "Scan & Pay Rewards",
+      "Eligibility Criteria - Age: 18 to 60 years",
+      "Documents required: PAN Card, Aadhaar Card"
+    ],
     rating: 4.5,
     interest: "4.0% p.a.",
     fees: "₹0",
