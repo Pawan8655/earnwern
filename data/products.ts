@@ -1,6 +1,3 @@
-Here is your updated TypeScript array with the new financial products added and all values formatted cleanly to match your existing array structure (`Product[]`).
-
-```typescript
 import { Product } from '../types';
 
 export const products: Product[] = [
@@ -240,5 +237,3 @@ export const products: Product[] = [
     tag: "Highly Rated"
   }
 ];
-
-```
